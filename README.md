@@ -8,9 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Zeus21z&label=Profile%20views&color=0047AB&style=plastic?" alt="Zeus21z" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Zeus21z" target="_blank" height=25px, width=250px/> 
-	</a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi:

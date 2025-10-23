@@ -105,7 +105,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
 
 <details><summary><h3> 🔥 Estadisticas de Racha</h3></summary>
 
@@ -129,7 +129,7 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Reciente actividad en GitHub</h3></summary>
 
 ----	
 
@@ -137,7 +137,7 @@
 
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: Trofeos de mi perfil de git </h3></summary>
 
 ----	
 
@@ -147,7 +147,7 @@
 
 </details>
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My Repositorios </h3></summary>
 
 ----	
 

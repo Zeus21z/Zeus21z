@@ -21,11 +21,10 @@
 
 - :school: I am a `Junior` at [Universidad Domingo Savio | Ingeniería en Sistemas](http://example.com).
 - :trophy: Ciclo de conferencias: Desarrolla tu talento en programación.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://zeus21z.github.io/).
-- :boom: You can visit [MY WEBSITE](https://zeus21z.github.io/).
+- :technologist: Me encanta usar el software como solución para cada `Problema`.
+- :student: Actualmente estoy aprendiendo `Ciencias de la Computación` e `Ingeniería de Software`.
+- :nerd_face: Siempre `Aprendo nuevas cosas`.
+- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, esta es [MI CV](https://zeus21z.github.io/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me

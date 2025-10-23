@@ -19,7 +19,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Universidad Domingo Savio | Ingeniería en Sistemas](http://example.com).
+- :school: Soy un `Junior` en [Universidad Domingo Savio | Ingeniería en Sistemas]([http://example.com](https://www.upds.edu.bo/)).
 - :trophy: Ciclo de conferencias: Desarrolla tu talento en programación.
 - :technologist: Me encanta usar el software como solución para cada `Problema`.
 - :student: Actualmente estoy aprendiendo `Ciencias de la Computación` e `Ingeniería de Software`.
@@ -27,7 +27,7 @@
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, esta es [MI CV](https://zeus21z.github.io/).
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecta Conmigo:
 <p align="center">
 	<a href="mailto:villarroelgarciazeus@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Zeus21z"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -35,9 +35,9 @@
 	<a href="https://www.linkedin.com/in/zeus-villarroel-garcia-38587438a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
   &emsp; 
@@ -70,7 +70,7 @@
   </a> 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software y Herramientas
 
 <p align="center">
   &emsp;
@@ -88,7 +88,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
 
 <p align="center">
   &emsp;
@@ -107,7 +107,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Estadisticas de Racha</h3></summary>
 
 ----	
 
@@ -115,7 +115,7 @@
 
 </details>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estadisticas de mi perfil de GitHub</h3></summary>
 
 ----	
 
@@ -125,7 +125,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeus21z&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Zeus21z" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
   </p>
 </details>
 
@@ -174,7 +174,7 @@
 
 </br></br>
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Una serpiente devorando mis contribuciones
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
